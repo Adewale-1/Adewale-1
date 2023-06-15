@@ -7,15 +7,15 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 ### 📞 Contact
 <p align="left">
    <a href="https://www.linkedin.com/in/adewale-young-adenle-210b49253">
-      <img align="left" alt="LinkedIn" width="50px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      <img align="left" alt="LinkedIn" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
    &nbsp;
    <a href="mailto:Adewaleadenlejnr@gmail.com">
-      <img align="left" alt="Email" width="60px" style="padding-right:50px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+      <img align="left" alt="Email" width="40px" style="padding-right:50px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
    </a>
    &nbsp;
     <a href="mailto:Adenle.4@osu.edu">
-      <img align="left" alt="Email" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />
+      <img align="left" alt="Email" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />
    </a>
 </p>
 
@@ -46,3 +46,4 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 ### 📊 Stats
 
 ![Adewale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adewale-1&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adewale-1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
