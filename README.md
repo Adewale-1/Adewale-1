@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-I am a Computer Science and Engineering student at The Ohio State University in Columbus, Ohio. My interests lies in Software Development and Artificial Intelligence, specifically in concepts like Deep Reinforcement Learning. I am also fascinated by hardware components and IoT technology. All of my coding projects are meticulously crafted, from initial planning and design to solving real-life problems with code. Additionally, I have a strong inclination towards building High-Frequency Trading Systems. I am passionate about leveraging technology to create innovative solutions and exploring the intersection of technology and finance.
+I am a Computer Science and Engineering student at The Ohio State University in Columbus, Ohio. My interests lies in Software Development and Artificial Intelligence, specifically in concepts like Deep Reinforcement Learning. I am also fascinated by hardware components and IoT technologies. All of my coding projects are meticulously crafted, from initial planning and design to solving real-life problems with code. Additionally, I have a strong inclination towards building High-Frequency Trading Systems. I am passionate about leveraging technology to create innovative solutions and exploring the intersection of technology and finance.
 
 ### 📞 Contact
 <p align="left">
