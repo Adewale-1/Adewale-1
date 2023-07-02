@@ -45,4 +45,4 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adewale-1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adewale-1&layout=donut-vertical)](https://github.com/Adewale-1/github-readme-stats)
