@@ -49,6 +49,3 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 
 #
 
-### 📊 Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adewale-1&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adewale-1&layout=donut-vertical)](https://github.com/Adewale-1/github-readme-stats)
