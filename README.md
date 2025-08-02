@@ -47,19 +47,40 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 
 ## 🏆 Featured Projects
 
+### 🤖 AI & Machine Learning Projects
+
 <div align="center">
+  <a href="https://github.com/Adewale-1/adk-python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=adk-python&theme=radical" />
+  </a>
   <a href="https://github.com/Adewale-1/Natural-Language-to-SQL">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=Natural-Language-to-SQL&theme=radical" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/Adewale-1/Transformer-Language-Modeling">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=Transformer-Language-Modeling&theme=radical" />
   </a>
+  <a href="https://github.com/Adewale-1/Orion">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=Orion&theme=radical" />
+  </a>
 </div>
+
+### 💰 Finance & Trading Projects
 
 <div align="center">
   <a href="https://github.com/Adewale-1/Algorithm_Trading">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=Algorithm_Trading&theme=radical" />
   </a>
+  <a href="https://github.com/Adewale-1/pandas-ta">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=pandas-ta&theme=radical" />
+  </a>
+</div>
+
+### 🏢 Applications & Tools
+
+<div align="center">
   <a href="https://github.com/Adewale-1/IndoorNav">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adewale-1&repo=IndoorNav&theme=radical" />
   </a>
