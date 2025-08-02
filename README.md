@@ -28,7 +28,7 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 
 <div align="center">
   <a href="https://github.com/Adewale-1/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adewale-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adewale-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" />
   </a>
   <a href="https://github.com/Adewale-1/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adewale-1&layout=compact&langs_count=8&card_width=320&theme=radical" />
