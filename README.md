@@ -136,16 +136,6 @@ I am a Computer Science and Engineering student at The Ohio State University in 
 
 ---
 
-## 🎵 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="Spotify Now Playing" width="400"/>
-</div>
-
-> **Note:** To set this up, visit [spotify-github-profile.kittinanx.com/api/login](https://spotify-github-profile.kittinanx.com/api/login) to connect your Spotify account and get your user ID.
-
----
-
 ## 💡 Random Developer Quote
 
 <div align="center">
